@@ -20,7 +20,7 @@ The main tool we employed for making the RAG is [Langchain 🦜️⛓️](https:
 
 ### Phase 1: Data Collection and Embedding
 1. **Data Collection:**
-   - Gathered detailed blogs related to entrepreneurship,taxes,and everything related to starting a company from  [BHAdviser](https://bhadviser.org/blog/).
+   - Gathered detailed blogs on entrepreneurship,taxes,and everything related to starting a company from  [BHAdviser](https://bhadviser.org/blog/).
 
 2. **Embedding:**
    - Utilized a model from [Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L12-v2) to transform data into vector representation.
@@ -75,6 +75,11 @@ Alternatively, you can explore a demo of the application directly on Hugging Fac
 
 ## Demo
 
+![Geek_Team_-_a_Hugging_Face_Space_by_MahmoudRox_-_Google_Chrome_2023-12-18_14-32-56](https://github.com/QoutiOussama13/VentureBuddy/assets/81428754/fc22cd13-b0a5-49fe-9507-81e1a6adda6e)
+![demo2](https://github.com/QoutiOussama13/VentureBuddy/assets/81428754/1a3a141b-7194-4193-b51c-440fcf840d8f)
+
+
+
 ## Future work
 we plan on making Mokawil.AI more advanced and more helapful for the users by making it :
 
@@ -98,7 +103,7 @@ we plan on making Mokawil.AI more advanced and more helapful for the users by ma
 ![image](https://github.com/QoutiOussama13/VentureBuddy/assets/81428754/7cc69454-689a-47ef-9e24-2244bf819eca)
 
 
-## Team 
+## Geek Team 
 
 - [Oussama Qouti](https://www.linkedin.com/in/oussama-qouti-105bb820a/)
 - [Mahmoud Bidry](https://www.linkedin.com/in/mahmoudbidry/)
